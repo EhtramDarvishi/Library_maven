@@ -1,0 +1,12 @@
+com\mycompany\library\Entity\Member.class
+com\mycompany\library\repository\RentRepository.class
+com\mycompany\library\Entity\Book.class
+com\mycompany\library\controller\RentController.class
+com\mycompany\library\repository\BookRepository.class
+com\mycompany\library\controller\MemberController.class
+com\mycompany\library\repository\MemberRepository.class
+com\mycompany\library\controller\BookController.class
+com\mycompany\library\MyBookstoreApplication.class
+com\mycompany\library\Service\BookAvailabilityCalculator.class
+com\mycompany\library\Service\RentService.class
+com\mycompany\library\Entity\Rent.class
